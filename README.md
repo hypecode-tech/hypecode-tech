@@ -11,4 +11,3 @@ Hypecode Technology, Türkiye'nin en yenilikçi yazılım şirketlerinden biridi
 - **E-posta**: info@hypecode.tech
 - **Telefon**: +90 544 940 3602
 
-[Hypecode Technology](https://hypecode.tech/en/)
