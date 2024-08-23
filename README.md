@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @hypecode-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hypecode Technology
 
-<!---
-hypecode-tech/hypecode-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Biz Kimiz?
+
+Hypecode Technology, Türkiye'nin en yenilikçi yazılım şirketlerinden biridir. Yüksek performanslı ve yenilikçi teknolojilerle donatılmış çözümleri, projelerinizi hızlı bir şekilde hayata geçirir. Güçlü güvenlik önlemleri ve geniş fiyat aralığı ile her ihtiyaca ve bütçeye hitap eder.
+
+## İletişim
+
+- **Web Sitesi**: [Hypecode Technology](https://hypecode.tech/en/)
+- **Adres**: İstanbul, Türkiye
+- **E-posta**: info@hypecode.tech
+- **Telefon**: +90 544 940 3602
+
+[^1^][1]: [Hypecode Technology](https://hypecode.tech/en/)
