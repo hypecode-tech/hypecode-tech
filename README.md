@@ -6,8 +6,8 @@ Hypecode Technology, Türkiye'nin en yenilikçi yazılım şirketlerinden biridi
 
 ## İletişim
 
-- **Web Sitesi**: [Hypecode Technology](https://hypecode.tech/en/)
-- **Adres**: İstanbul, Türkiye
+- **Web Sitesi**: [Hypecode Technology](https://hypecode.tech/)
+- **Adres**: Kocaeli, Türkiye
 - **E-posta**: info@hypecode.tech
 - **Telefon**: +90 544 940 3602
 
